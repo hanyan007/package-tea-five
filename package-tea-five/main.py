@@ -21,4 +21,4 @@ def test_print():
 
 if __name__ == '__main__':
     # test_print()
-    gen_case(）
+    gen_case()
